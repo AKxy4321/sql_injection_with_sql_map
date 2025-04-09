@@ -1,10 +1,3 @@
-Sure! Here's a professional and clear **README.md** that you can include with your project. It contains:
-
-- Full steps
-- Highlights of the requirements from the original problem
-- Output and usage details
-- Security recommendations  
-- Everything formatted nicely for a `README.md` file
 
 ---
 
